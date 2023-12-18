@@ -1,0 +1,35 @@
+.texto-informativo{
+    text-align: justify;
+    font-size: 100%;
+    font-weight: 800;
+    padding: 100px;
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.texto-informativo p{
+    font-size: 18px;
+    letter-spacing: 1px;
+    margin-bottom: 50px;
+}
+
+.texto-informativo h2{
+    margin-bottom: 10px;
+}
+
+.titulo-esportes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 100px;
+}
+
+.titulo-esportes h1{
+    text-align: center;
+    padding-top: 40px;
+}
+
+.titulo-esportes img{
+    width: 600px;
+    height: auto;
+}
